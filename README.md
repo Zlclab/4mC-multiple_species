@@ -1,6 +1,7 @@
-L. Zhang, X. Wang, K. Xiao, L. Kong, An Effective Algorithm Based on Sequence and Property Information for N4-methylcytosine Identification in Multiple Species, Letters in Organic Chemistry, 21 (2024) 695-706.
+L. Zhang, X. Wang, K. Xiao, L. Kong, , 21 (2024) 695-706.
 
 https://doi.org/10.2174/0115701786277281231228093405
+L. Zhang, X. Wang, K. Xiao, L. Kong, "An Effective Algorithm Based on Sequence and Property Information for N4-methylcytosine Identification in Multiple Species, Letters in Organic Chemistry" *Letters in Organic Chemistry*, 2024; 21(8): 695-706. [https://doi.org/10.2174/0115701786277281231228093405](https://doi.org/10.2174/0115701786277281231228093405)
 
 
 Requirements

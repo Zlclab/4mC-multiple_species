@@ -1,5 +1,5 @@
-# 4mC-multiple_species
-A novel computational method to identify 4mC sites in multiple-species. 
+### An Effective Algorithm Based on Sequence and Property Information for N4-methylcytosine Identification in Multiple Species. https://doi.org/10.2174/0115701786277281231228093405
+
 
 
 Requirements
